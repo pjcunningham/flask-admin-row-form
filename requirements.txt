@@ -1,0 +1,11 @@
+Click==7.0
+enum34==1.1.6
+Flask==1.0.2
+Flask-Admin==1.5.3
+Flask-SQLAlchemy==2.3.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+SQLAlchemy==1.2.17
+Werkzeug==0.14.1
+WTForms==2.2.1
